@@ -1,0 +1,19 @@
+{
+  "product": "PromptBuilder",
+  "version": "2.9.0",
+  "channel": "stable",
+  "tag": "v2.9.0",
+  "published": "2026-11-18",
+  "notes": {
+    "nl": "Nieuwe rubriek Programma maken met zes expliciete sjablonen: Python, PowerShell, Rust, C#, JavaScript/TypeScript en een vrije taalkeuze. Boven de specialistische rubrieken, standaard uitgeklapt. Tien invoervelden voor concrete complete basisprojecten. Help bijgewerkt in Nederlands en Engels.",
+    "en": "New Create a program category with six explicit templates: Python, PowerShell, Rust, C#, JavaScript/TypeScript and another language. Shown above specialist categories and expanded by default. Ten fields describing complete starter projects. Updated Dutch and English help."
+  },
+  "installer": {
+    "filename": "PromptBuilderSetup_2.9.0.exe",
+    "download_url": "https://github.com/cyberfirepulse/PromptBuilder/releases/download/v2.9.0/PromptBuilderSetup_2.9.0.exe",
+    "sha256": "d9401ecfbcf6fff44ef370c9c847390398225984d297043e97793facd47a81aa"
+  },
+  "download_url": "https://github.com/cyberfirepulse/PromptBuilder/releases/download/v2.9.0/PromptBuilderSetup_2.9.0.exe",
+  "sha256": "d9401ecfbcf6fff44ef370c9c847390398225984d297043e97793facd47a81aa"
+}
+
